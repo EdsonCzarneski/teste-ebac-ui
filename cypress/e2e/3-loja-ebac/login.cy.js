@@ -1,7 +1,5 @@
 ///<reference types="cypress"></reference>
 
-
-
 describe('Funcionalidade Login',() => {
 
     beforeEach(() => {
